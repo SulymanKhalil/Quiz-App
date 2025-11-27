@@ -10,12 +10,12 @@ const questions: Question[] = [
   {
     question:
       "I speak without a mouth and hear without ears. I have nobody, but I comealive with wind. What am I?",
-    options: ["Echo", "Shadow", "Fire", "Soundwave"],
+    options: ["Shadow", "Echo", "Fire", "Soundwave"],
     answer: "Echo",
   },
   {
     question: "What has keys but can’t open locks?",
-    options: ["Piano", "Map", "Code", "Keyboard"],
+    options: ["Code", "Map", "Piano", "Keyboard"],
     answer: "Piano",
   },
   {
@@ -25,17 +25,17 @@ const questions: Question[] = [
   },
   {
     question: "What can travel around the world while staying in a corner?",
-    options: ["Stamp", "Airplane", "Shadow", "Coin"],
+    options: ["Coin", "Airplane", "Shadow", "Stamp"],
     answer: "Stamp",
   },
   {
     question: "What gets wetter as it dries?",
-    options: ["Towel", "Sun", "Ice", "Sponge"],
+    options: ["Ice", "Sun", "Towel", "Sponge"],
     answer: "Towel",
   },
   {
     question: "The more you take, the more you leave behind. What am I?",
-    options: ["Footsteps", "Time", "Water", "Sand"],
+    options: ["Sand", "Time", "Water", "Footsteps"],
     answer: "Footsteps",
   },
   {
@@ -45,12 +45,12 @@ const questions: Question[] = [
   },
   {
     question: "What has a neck but no head?",
-    options: ["Bottle", "Shirt", "Guitar", "Snake"],
+    options: ["Snake", "Shirt", "Guitar", "Bottle"],
     answer: "Bottle",
   },
   {
     question: "What comes down but never goes up?",
-    options: ["Rain", "Sun", "Shadow", "Ball"],
+    options: ["Sun", "Rain", "Shadow", "Ball"],
     answer: "Rain",
   },
   {
